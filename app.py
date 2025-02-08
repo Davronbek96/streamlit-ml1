@@ -28,7 +28,7 @@ feature_names = [
     'ethnicity_african', 'ethnicity_asian', 'ethnicity_caucasian', 'ethnicity_hispanic',
     'ethnicity_mixed', 'preventive_care_good', 'preventive_care_moderate', 'preventive_care_poor'
 ]   
-st.title("Decision Tree modeli yordamida jigar o'smani aniqlash uchun tuzilgan aqlli dastur")
+st.title("Decision Tree modeli yordamida jigar o'smani aniqlash uchun tuzilgan aqlli dastur!")
 st.write("Malumotlarni kiriting va natijani oling! .")
 st.sidebar.write(f"### Model Accuracy: {accuracy}%")
 
