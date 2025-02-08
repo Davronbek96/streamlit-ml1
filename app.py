@@ -35,7 +35,7 @@ st.sidebar.write(f"### Model Accuracy: {accuracy}%")
 import streamlit as st
 import numpy as np
 import joblib
-
+import numpy as np
 # Load the trained Decision Tree model
 model = joblib.load("decision_tree_model.pkl")
 
